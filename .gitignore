@@ -1,0 +1,7 @@
+build/
+AMF/
+client/.gradle/
+client/build/
+client/app/build/
+*.iml
+.idea/
